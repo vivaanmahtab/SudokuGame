@@ -31,8 +31,4 @@ class SudokuReader:
 
     def getTiles(self):
         return self.tilesList
-
-
-
-
-#  letter_diagram = open("Alphanumeric_Characters/" + str(letter), 'r')
+    
