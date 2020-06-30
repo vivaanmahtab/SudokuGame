@@ -20,3 +20,4 @@ class Row:
         for row in self.tiles:
             for tile in row:
                 tile.draw()
+                
